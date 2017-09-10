@@ -1,6 +1,6 @@
 # Speakeasy
 
-[!Speakeasy](img/speakeasy.png)
+![Speakeasy](img/speakeasy.png)
 
 A very simple package for sending SMS messages and making calls with a Twilio account.
 
