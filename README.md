@@ -14,7 +14,7 @@ Generate an outbound Twilio call to the supplied number. Twilio will attempt to 
 
 ## Usage
 
-```
+```go
 func main() {
   //Instantiate Speakeasy with your account SID, AuthToken and Twilio number
   s := speakeasy.New("AC49a43r78fh717463fce21dsfue6ae", "8211129a9d43c587eftxbdh39c859666", "+555-555-5555")
