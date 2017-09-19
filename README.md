@@ -48,3 +48,7 @@ func main() {
 }
 
 ```
+
+### Documentation
+
+[Godocs](https://godoc.org/github.com/zackproser/speakeasy)
